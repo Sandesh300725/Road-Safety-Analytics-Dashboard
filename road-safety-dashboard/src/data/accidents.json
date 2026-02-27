@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "location": "Bhopal",
+    "lat": 23.2599,
+    "lng": 77.4126,
+    "accidents": 120,
+    "year": 2024,
+    "vehicle": "Car"
+  },
+  {
+    "id": 2,
+    "location": "Indore",
+    "lat": 22.7196,
+    "lng": 75.8577,
+    "accidents": 95,
+    "year": 2024,
+    "vehicle": "Bike"
+  }
+]
